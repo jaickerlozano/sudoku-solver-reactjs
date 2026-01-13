@@ -103,7 +103,7 @@ function App() {
     };
 
     return (
-        <div className='min-h-screen bg-gray-100 flex flex-col items-center py-10 font-sans relative'>
+        <div className="min-h-screen w-full flex flex-col items-center py-10 font-sans bg-gradient-to-br from-slate-200 via-blue-50 to-white">
             <h1 className='text-4xl font-bold text-gray-800 mb-2'>Sudoku React</h1>
             
             <div className="flex items-center gap-8 mb-6">
