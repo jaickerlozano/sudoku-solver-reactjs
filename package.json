@@ -1,6 +1,5 @@
 {
   "name": "sudoku-solver-reactjs",
-  "homepage": "https://jaickerlozano.github.io/sudoku-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
